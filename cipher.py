@@ -1,5 +1,5 @@
 
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import sys
 
