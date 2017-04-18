@@ -1,0 +1,3 @@
+keytry.py: to generate the encryption and decryption keys.
+cipher.py :to generate the cipher text,
+in cipher.py ,change the mode="decrypt" in order to retrieve back the message.
